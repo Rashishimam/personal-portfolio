@@ -1,0 +1,17 @@
+{
+  "name": "Rashish Imam | Developer Portfolio",
+  "short_name": "Rashish Imam",
+  "description": "3rd Year Computer Science & Engineering Student | Software Development Portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050811",
+  "theme_color": "#050811",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

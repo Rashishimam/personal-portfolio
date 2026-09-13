@@ -1,0 +1,9 @@
+# Robots.txt for Rashish Imam Portfolio
+User-agent: *
+Allow: /
+
+# Disallow API internal endpoints from crawler index
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://rashishimam.com/sitemap.xml
